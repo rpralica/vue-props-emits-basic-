@@ -1,4 +1,4 @@
-# my-family
+# vue-props-emits-basic
 
 ## Project setup
 ```
